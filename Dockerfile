@@ -1,4 +1,4 @@
-FROM node:21.7.2-bullseye-slim
+FROM node:20.5.1-bullseye-slim
 
 RUN npm install -g npm@9.1.3
 
